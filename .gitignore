@@ -1,3 +1,6 @@
 .venv/
 trasg
 university.db
+__pycache__/
+
+
